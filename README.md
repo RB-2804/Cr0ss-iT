@@ -64,7 +64,7 @@ Quand vous lancez l'application, une fenetre s'ouvrira avec plusieurs onglets :
   
 - Inscription
 
-  ![image_2024-03-24_224156500](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/24e92af5-727a-4118-b880-a343a0eba67f)
+  ![image_2024-03-24_224447974](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/c9b555a8-0299-4b48-b28f-043a293d23a6)
 
   - Cet onglet permet d'enregistrer manuellement un élève à l'aide d'un formulaire.
   - Il propose également un bouton "Créer QR Code" pour générer des QR codes uniques associés à chaque élève.
@@ -72,7 +72,7 @@ Quand vous lancez l'application, une fenetre s'ouvrira avec plusieurs onglets :
 
   - ### Schéma conceptuel (non abouti)
 
-  ![image_2024-03-24_224447974](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/c9b555a8-0299-4b48-b28f-043a293d23a6)
+
 
 - Départ
 
