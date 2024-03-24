@@ -30,15 +30,17 @@ Read this document in [english](README_en.md)
 
 ### Windows 
 
-Apres avoir installé Python3 (version 3.7 ou plus). lancez la commande suivante :
+Apres avoir installé Python3 (version 3.7 ou plus), lancez la commande suivante :
 
 ![image](https://github.com/RB-2804/Cross-iT/assets/130835974/6962260a-cf2f-48dc-9272-37c0a6294404)
 
-- pip install pygame csv opencv-python-headless
+Ainsi que les modules csv et cv2 pour une bon fonctionnement :
 
-### Linux
+- pip install csv opencv-python-headless
 
-Apres avoir installé le paquet SOL2 ( IIbsd12-dev pout Ubuntu), Python3 (version 3.7 Ou plus), et lancez la commande suivante :
+### Ubuntu
+
+Apres avoir installé le paquet SOL2 ( IIbsd12-dev pour Ubuntu), Python3 (version 3.7 Ou plus), et lancez la commande suivante :
 
 - sudo pip3 install pygame opencv-python-headless
 
