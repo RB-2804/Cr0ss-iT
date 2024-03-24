@@ -30,7 +30,7 @@ Read this document in [english](README_en.md)
 ### Onglets
 
   - Éléments visuels tels que boutons, texte, conçus pour une expérience utilisateur agréable
-  - 
+    
   - Affichage du classement pour une compétition transparente et équitable
 
 
