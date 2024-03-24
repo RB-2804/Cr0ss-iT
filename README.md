@@ -20,7 +20,7 @@ Cr0ss_iT est une application développée avec Pygame, conçue pour simplifier l
 
 ### Exemple de notre BDD 
 
-![image](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/7094bda4-7eab-46ab-ab40-0d12df574d38)
+![image](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/5d2b2a8c-09b9-4b8f-bc8c-609b529b6ee4)
 
 
 ## Fonctionnalités
