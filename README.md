@@ -70,9 +70,9 @@ Quand vous lancez l'application, une fenetre s'ouvrira avec plusieurs onglets :
   - Il propose également un bouton "Créer QR Code" pour générer des QR codes uniques associés à chaque élève.
   - Un bouton "Importer un fichier" permet d'importer un fichier CSV pour enregistrer automatiquement les élèves dans la base de données.
 
-### Schéma conceptuel (non abouti)
+  - ### Schéma conceptuel (non abouti)
 
-![image_2024-03-24_224447974](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/c9b555a8-0299-4b48-b28f-043a293d23a6)
+  ![image_2024-03-24_224447974](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/c9b555a8-0299-4b48-b28f-043a293d23a6)
 
 - Départ
 
