@@ -9,7 +9,8 @@ Read this document in [english](README_en.md)
 ## Table des matières
 - [Démo](#démo)
 - [Fonctionnalités](#fonctionnalités)
-- [Interface graphique](#1---Interface-utilisateur)
+- [Installation](#Installation)
+- [Interface utilisateur](#1---Interface-utilisateur)
 
 ## Démo 
 
@@ -25,7 +26,24 @@ Read this document in [english](README_en.md)
     
   - Système de départ avec QR Code pour un chronométrage précis et un classement efficace à l'arrivée
 
-## 1 - Interface utilisateur
+## Installation
+
+### Windows 
+
+Apres avoir installé Python3 (version 3.7 ou plus). lancez la commande suivante :
+
+![image](https://github.com/RB-2804/Cross-iT/assets/130835974/6962260a-cf2f-48dc-9272-37c0a6294404)
+
+- pip install pygame csv opencv-python-headless
+
+### Linux
+
+Apres avoir installé le paquet SOL2 ( IIbsd12-dev pout Ubuntu), Python3 (version 3.7 Ou plus), et lancez la commande suivante :
+
+- sudo pip3 install pygame opencv-python-headless
+
+
+## Interface utilisateur
 
 ### Onglets
 
@@ -38,4 +56,4 @@ Read this document in [english](README_en.md)
 
 ## License de la photo 
 
-© 2021 Lycée La Bourdonnais. All rights reserved.
+© 2024 Lycée La Bourdonnais. All rights reserved.
