@@ -8,7 +8,7 @@ Read this document in [english](README_en.md)
 
 Cr0ss_iT est une application développée avec Pygame, conçue pour simplifier l'organisation des événements sportifs scolaires. Elle offre des fonctionnalités telles que la gestion des événements sportifs, l'inscription des élèves via un formulaire ou l'importation de données CSV, la création et le suivi des courses, un système de départ avec QR Code pour un chronométrage précis, une organisation de base de données efficace et l'affichage du classement. Cr0ss_iT représente une solution complète et conviviale pour les écoles souhaitant optimiser la gestion de leurs événements sportifs.
 
-![image](https://github.com/RB-2804/Cross-iT/assets/130835974/43d66d9a-7c62-4eed-8b38-a505f582ad9c)
+![image](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/30b42ec9-20d0-4f0d-9438-71259a3dc2fd)
 
 ## Table des matières
 - [Démo](#démo)
