@@ -14,6 +14,11 @@ Read this document in [english](README_en.md)
 
 ## Démo 
 
+### Exemple de notre BDD 
+
+![image](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/7094bda4-7eab-46ab-ab40-0d12df574d38)
+
+
 ## Fonctionnalités
 
 ### Gestion des événements sportifs
