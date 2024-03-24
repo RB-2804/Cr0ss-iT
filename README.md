@@ -63,8 +63,8 @@ Quand vous lancez l'application, une fenetre s'ouvrira avec plusieurs onglets :
 
   - Dans cet onglet, vous pouvez sélectionner une course parmi celles disponibles.
   - Il affiche la liste des élèves participant à la course sélectionnée.
-  - Vous pouvez également choisir une zone de texte pour sélectionner la caméra à utiliser.
-  - Un bouton "Démarrer" lance la caméra et démarre un chronomètre interne au code.
+  - Vous pouvez également saisir dans une zone de texte le numéro de la caméra à utiliser.
+  - Un bouton "Démarrer" lancera la caméra et démarrera un chronomètre interne au code.
 
 - Course
   
