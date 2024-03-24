@@ -10,7 +10,7 @@ Read this document in [english](README_en.md)
 - [Démo](#démo)
 - [Fonctionnalités](#fonctionnalités)
 - [Installation](#Installation)
-- [Interface utilisateur](#interface-utilisateur)
+- [Utilisation](#comment-l'utiliser-?)
 
 ## Démo 
 
@@ -44,10 +44,7 @@ Apres avoir installé le paquet SOL2 ( IIbsd12-dev pour Ubuntu), Python3 (versio
 
 - sudo pip3 install pygame opencv-python-headless
 
-
-## Interface utilisateur
-
-### Comment l'utiliser ?
+## Comment l'utiliser ?
 
 Quand vous lancez l'application, une fenetre s'ouvrira avec plusieurs onglets :
 
