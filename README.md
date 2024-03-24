@@ -34,7 +34,7 @@ Apres avoir installé Python3 (version 3.7 ou plus), lancez la commande suivante
 
 ![image](https://github.com/RB-2804/Cross-iT/assets/130835974/6962260a-cf2f-48dc-9272-37c0a6294404)
 
-Ainsi que les modules csv et cv2 pour une bon fonctionnement :
+Ainsi que les modules csv et cv2 pour un bon fonctionnement :
 
 - pip install csv opencv-python-headless
 
