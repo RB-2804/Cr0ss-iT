@@ -72,7 +72,7 @@ Quand vous lancez l'application, une fenetre s'ouvrira avec plusieurs onglets :
 
 ### Schéma conceptuel (non abouti)
 
-![image](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/8b9f2090-18c7-446a-aef5-8e6a9d193e28)
+![image_2024-03-24_224447974](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/c9b555a8-0299-4b48-b28f-043a293d23a6)
 
 - Départ
 
@@ -82,6 +82,8 @@ Quand vous lancez l'application, une fenetre s'ouvrira avec plusieurs onglets :
   - Un bouton "Démarrer" lancera la caméra et démarrera un chronomètre interne au code.
 
 - Course
+
+![image_2024-03-24_224607408](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/f44c5f10-0ecb-47e2-8404-d8bc6355e6e6)
   
   - Cet onglet propose un formulaire pour créer une nouvelle course.
   - Vous pouvez sélectionner la classe, le genre et la distance de la course, qui seront enregistrés dans la base de données.
