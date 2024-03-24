@@ -48,10 +48,13 @@ Apres avoir installé le paquet SOL2 ( IIbsd12-dev pour Ubuntu), Python3 (versio
 ## Interface utilisateur
 
 ### Onglets
+- Accueil
+- Inscription
+- Départ
+- Course
+- Classement
 
-  - Éléments visuels tels que boutons, texte, conçus pour une expérience utilisateur agréable
-    
-  - Affichage du classement pour une compétition transparente et équitable
+  
 
 
 
