@@ -14,7 +14,7 @@ Cr0ss_iT est une application développée avec Pygame, conçue pour simplifier l
 - [Démo](#démo)
 - [Fonctionnalités](#fonctionnalités)
 - [Installation](#Installation)
-- [Utilisation](#comment-l'utiliser-?)
+- [Utilisation](#comment-lutiliser-)
 
 ## Démo 
 
