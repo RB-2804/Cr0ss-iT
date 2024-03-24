@@ -1,4 +1,4 @@
-# Cross-iT
+# Cr0ss iT
 
 Read this document in [english](README_en.md)
 
