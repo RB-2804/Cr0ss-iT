@@ -1,4 +1,4 @@
-# Cr0ss iT
+# Cr0ss_iT
 
 Read this document in [english](README_en.md)
 
