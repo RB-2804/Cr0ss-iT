@@ -47,15 +47,16 @@ Apres avoir installé le paquet SOL2 ( IIbsd12-dev pour Ubuntu), Python3 (versio
 
 ## Interface utilisateur
 
+### Comment l'utiliser ?
+
+Quand vous lancez l'application, une fenetre s'ouvrira avec plusieurs onglets :
+
 ### Onglets
 - Accueil
 - Inscription
 - Départ
 - Course
 - Classement
-
-  
-
 
 
 
