@@ -50,12 +50,30 @@ Quand vous lancez l'application, une fenetre s'ouvrira avec plusieurs onglets :
 
 ### Onglets
 - Accueil
+
+  - Ce premier onglet affiche un bouton "Réinitialiser" pour réinitialiser la base de données et un bouton "Quitter" pour fermer l'application.
+  
 - Inscription
+
+  - Cet onglet permet d'enregistrer manuellement un élève à l'aide d'un formulaire.
+  - Il propose également un bouton "Créer QR Code" pour générer des QR codes uniques associés à chaque élève.
+  - Un bouton "Importer un fichier" permet d'importer un fichier CSV pour enregistrer automatiquement les élèves dans la base de données.
+
 - Départ
+
+  - Dans cet onglet, vous pouvez sélectionner une course parmi celles disponibles.
+  - Il affiche la liste des élèves participant à la course sélectionnée.
+  - Vous pouvez également choisir une zone de texte pour sélectionner la caméra à utiliser.
+  - Un bouton "Démarrer" lance la caméra et démarre un chronomètre interne au code.
+
 - Course
+  
+  - Cet onglet propose un formulaire pour créer une nouvelle course.
+  - Vous pouvez sélectionner la classe, le genre et la distance de la course, qui seront enregistrés dans la base de données.
+  
 - Classement
 
-
+  - Une fois la course terminée, cet onglet permet de sélectionner le classement de la course, affichant les 3 premiers temps.
 
 ## License de la photo 
 
