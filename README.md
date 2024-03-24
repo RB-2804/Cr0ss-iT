@@ -10,7 +10,7 @@ Read this document in [english](README_en.md)
 - [Démo](#démo)
 - [Fonctionnalités](#fonctionnalités)
 - [Installation](#Installation)
-- [Interface utilisateur](#1---Interface-utilisateur)
+- [Interface utilisateur](#interface-utilisateur)
 
 ## Démo 
 
