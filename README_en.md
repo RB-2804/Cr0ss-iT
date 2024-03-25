@@ -1,5 +1,7 @@
 # Cr0ss_iT
 
+Lisez ce document en [français](README.md)
+
 **An application to simplify the organization of school sports events made with pygame!**
 
 ## Description
