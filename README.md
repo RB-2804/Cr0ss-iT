@@ -6,7 +6,7 @@ Read this document in [english](README_en.md)
 
 ## Description
 
-Cr0ss_iT est une application développée avec Pygame, conçue pour simplifier l'organisation des événements sportifs scolaires. Elle offre des fonctionnalités telles que la gestion des événements sportifs, l'inscription des élèves via un formulaire ou l'importation de données CSV, la création et le suivi des courses, un système de départ avec QR Code pour un chronométrage précis, une organisation de base de données efficace et l'affichage du classement. Cr0ss_iT représente une solution complète et conviviale pour les écoles souhaitant optimiser la gestion de leurs événements sportifs.
+Cr0ss_iT est une application développée avec Pygame, destinée à simplifier l'organisation des événements sportifs scolaires. Elle offre une gamme de fonctionnalités visant à faciliter la gestion des événements sportifs, notamment l'inscription des élèves via un formulaire ou l'importation de données CSV, la création et le suivi des différentes courses, ainsi qu'un système de départ intégrant des QR Code pour un chronométrage précis. Cette application représente une solution complète et conviviale pour les écoles souhaitant optimiser la gestion de leurs événements sportifs.
 
 ![image](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/c8376baf-5168-407c-b3a1-b00164f57ca7)
 
@@ -14,7 +14,7 @@ Cr0ss_iT est une application développée avec Pygame, conçue pour simplifier l
 - [Démo](#démo)
 - [Fonctionnalités](#fonctionnalités)
 - [Installation](#Installation)
-- [Utilisation](#comment-lutiliser-)
+- [Utilisation](#Utilisqtion)
 
 ## Démo 
 
@@ -53,14 +53,14 @@ Apres avoir installé le paquet SOL2 ( IIbsd12-dev pour Ubuntu), Python3 (versio
 
 - sudo pip3 install pygame opencv-python-headless
 
-## Comment l'utiliser ?
+## Utilisation
 
-Quand vous lancez l'application, une fenetre s'ouvrira avec plusieurs onglets :
+Quand vous lancez l'application, une fenêtre s'ouvrira avec plusieurs onglets :
 
 ### Onglets
 - Accueil
 
-  - Ce premier onglet affiche un bouton "Réinitialiser" pour réinitialiser la base de données et un bouton "Quitter" pour fermer l'application.
+  - Ce premier onglet est un écran d'accueil avec l'unique bouton "Quitter" pour fermer l'application.
   
 - Inscription
 
@@ -68,7 +68,7 @@ Quand vous lancez l'application, une fenetre s'ouvrira avec plusieurs onglets :
 
   - Cet onglet permet d'enregistrer manuellement un élève à l'aide d'un formulaire.
   - Il propose également un bouton "Créer QR Code" pour générer des QR codes uniques associés à chaque élève.
-  - Un bouton "Importer un fichier" permet d'importer un fichier CSV pour enregistrer automatiquement les élèves dans la base de données.
+  - Le bouton "Importer un fichier" permet d'importer un fichier CSV pour enregistrer automatiquement les élèves dans la base de données.
 
   - ### Schéma conceptuel (non abouti)
   
@@ -81,7 +81,7 @@ Quand vous lancez l'application, une fenetre s'ouvrira avec plusieurs onglets :
   - Dans cet onglet, vous pouvez sélectionner une course parmi celles disponibles.
   - Il affiche la liste des élèves participant à la course sélectionnée.
   - Vous pouvez également saisir dans une zone de texte le numéro de la caméra à utiliser.
-  - Un bouton "Démarrer" lancera la caméra et démarrera un chronomètre interne au code.
+  - Le bouton "Démarrer" lancera la caméra et démarrera un chronomètre interne au code.
 
 - Course
 
@@ -92,7 +92,7 @@ Quand vous lancez l'application, une fenetre s'ouvrira avec plusieurs onglets :
   
 - Classement
 
-  - Une fois la course terminée, cet onglet permet de sélectionner le classement de la course, affichant les 3 premiers temps.
+  - Une fois la course terminée, cet onglet permet de sélectionner le classement de la course et affichant le temps des 3 premiers.
 
 ## License de la photo 
 
