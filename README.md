@@ -76,19 +76,19 @@ Quand vous lancez l'application, une fenêtre s'ouvrira avec plusieurs onglets :
 
 - Départ
 
-![image_2024-03-24_235831441](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/f2230dcf-7290-4396-9f04-02ec9855e549)
+  ![image_2024-03-24_235831441](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/f2230dcf-7290-4396-9f04-02ec9855e549)
 
-  - Dans cet onglet, vous pouvez sélectionner une course parmi celles disponibles.
-  - Il affiche la liste des élèves participant à la course sélectionnée.
-  - Vous pouvez également saisir dans une zone de texte le numéro de la caméra à utiliser.
-  - Le bouton "Démarrer" lancera la caméra et démarrera un chronomètre interne au code.
+    - Dans cet onglet, vous pouvez sélectionner une course parmi celles disponibles.
+    - Il affiche la liste des élèves participant à la course sélectionnée.
+    - Vous pouvez également saisir dans une zone de texte le numéro de la caméra à utiliser.
+    - Le bouton "Démarrer" lancera la caméra et démarrera un chronomètre interne au code.
 
 - Course
 
-![image_2024-03-24_224607408](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/f44c5f10-0ecb-47e2-8404-d8bc6355e6e6)
+  ![image_2024-03-24_224607408](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/f44c5f10-0ecb-47e2-8404-d8bc6355e6e6)
   
-  - Cet onglet propose un formulaire pour créer une nouvelle course.
-  - Vous pouvez sélectionner la classe, le genre et la distance de la course, qui seront enregistrés dans la base de données.
+    - Cet onglet propose un formulaire pour créer une nouvelle course.
+    - Vous pouvez sélectionner la classe, le genre et la distance de la course, qui seront enregistrés dans la base de données.
     
 - Classement
 
