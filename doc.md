@@ -16,7 +16,7 @@ Grace a la base de donnees nous pouvons inserer les noms des eleves mais aussi l
 
 L'utilisation du module Tkinter nous permet de sélectionner le fichier CSV de notre choix. Lors de l'importation des élèves dans la BDD, nous devons également coder l'encodage en UTF-8 pour éviter la présence de caractères spéciaux dans les noms.
 
-## Camera
+## Caméra
 
 Le module OpenCV-Python est une bibliothèque open-source largement utilisée pour le traitement d'images. Il fournit des fonctionnalités pour la manipulation d'images en temps réel, la détection d'objets, le suivi de mouvement, la reconnaissance faciale, la calibrage de la caméra et bien plus encore.
 
@@ -24,3 +24,8 @@ Pour notre cas, nous l'avons utilise dans le but de detecter les QR Code des ele
 
 Nous pouvons choisir la camera pour laquelle vous voulez utiliser et nous avons utilise l'application Iriun (explication de ce qu'est l'application) qui nous permet si l'ordinateur qui fait tournee l'application et le telephone portable soit connecte sur un meme reseau wifi ait access a la camera du telephone portable pour avoir un semblant de "webcam" sans fil ou vous pouvez utiliser directement une webcam reliee a l'ordinateur.
 
+## App Design
+
+### Les onglets
+
+L'application est composee de plusieurs onglets tels que l'onglet d'acceuil, l'onglet de depart, l'onglet de la course, et l'onglet classement. Pour changer d'onglet rien de plus simple que de cliquer sur le nom de l'onglet.
