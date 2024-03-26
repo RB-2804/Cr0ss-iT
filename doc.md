@@ -6,7 +6,9 @@ L'affichage de l'application est réalisé à partir de Pygame. La bibliothèque
 
 ## Base de données
 
-Le principe des clés primaires et des clés étrangères est utilisé dans cette base de données pour assurer l'intégrité référentielle et identifier de manière unique chaque enregistrement.
+Dans ce projet, l'utilisation d'une base de données est primordiale pour structurer les données des élèves, des courses et des participations aux courses. Elle assure l'intégrité des données, facilite leur manipulation et garantit la pérennité de l'application. Grâce à elle, les opérations telles que l'affichage des listes d'élèves ou le calcul des classements sont efficaces et sécurisées. En somme, notre BDD offre une solution solide et flexible pour gérer les informations de manière efficace.
+
+Le principe des clés primaires et des clés étrangères est utilisé dans notre base de données pour assurer le bon fonctionnement et identifier de manière unique chaque enregistrement.
 
 Notre base de données utilise des clés primaires et des clés étrangères. L'identifiant de chaque table est défini comme clé primaire. Dans la table "participe", les colonnes "id_course" et "id_eleve" servent de clé composite pour garantir l'unicité des relations. De plus, la clé étrangère "id_eleve" de la table "participe" fait référence à la clé primaire "id_eleve" de la table "eleves" et la clé étrangère "id_course" fait référence à la clé primaire "id_course" de la table "course".
 
