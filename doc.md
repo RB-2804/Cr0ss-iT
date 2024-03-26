@@ -29,3 +29,5 @@ Nous pouvons choisir la caméra que vous voulez utiliser et nous avons utilisé 
 ### Les onglets
 
 L'application est composée de plusieurs onglets tels que l'onglet d'accueil, l'onglet de départ, l'onglet de la course et l'onglet classement. Pour changer d'onglet, il suffit simplement de cliquer sur le nom de l'onglet.
+
+requirements.txt : pip freeze > requirements.txt
