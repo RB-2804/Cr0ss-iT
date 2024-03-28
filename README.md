@@ -85,6 +85,10 @@ Quand vous lancez l'application, une fenêtre s'ouvrira avec plusieurs onglets :
   
     - Cet onglet propose un formulaire pour créer une nouvelle course.
     - Vous pouvez sélectionner la classe, le genre et la distance de la course, qui seront enregistrés dans la base de données.
+    - Le bouton "Reinitialiser TOUT" permet de réinitialiser toutes les tables de la base de données.
+    - Le bouton "Reinitialiser course" permet de réinitialiser la table course.
+    - Le bouton "Reinitialiser participe" permet de réinitialiser la table participe.
+    - Le bouton "Reinitialiser élèves" permet de réinitialiser la table élèves.
     
 - Classement
 
