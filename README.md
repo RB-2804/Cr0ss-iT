@@ -90,6 +90,9 @@ Quand vous lancez l'application, une fenêtre s'ouvrira avec plusieurs onglets :
 
   - Une fois la course terminée, cet onglet permet de sélectionner le classement de la course et affichant le temps des 3 premiers.
 
+  ![image](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/dabadaea-2aca-4d6b-847a-bd1e37721940)
+
+
 ## License de la photo 
 
 © 2024 Lycée La Bourdonnais. All rights reserved.
