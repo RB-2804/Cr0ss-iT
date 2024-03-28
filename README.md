@@ -45,13 +45,13 @@ Apres avoir installé Python3 (version 3.7 ou plus), lancez la commande suivante
 
 Ainsi que les modules cv2 et qrocde pour un bon fonctionnement :
 
-- pip install opencv-python-headless/qrcode
+- pip install opencv-python-headless qrcode
 
 ### Ubuntu
 
 Apres avoir installé le paquet SOL2 ( IIbsd12-dev pour Ubuntu), Python3 (version 3.7 Ou plus), et lancez la commande suivante :
 
-- sudo pip3 install pygame opencv-python-headless/qrcode
+- sudo pip3 install pygame opencv-python-headless qrcode
 
 ## Utilisation
 
