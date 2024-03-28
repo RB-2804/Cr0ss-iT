@@ -20,6 +20,7 @@ Grâce à la base de données, nous pouvons insérer les noms des élèves mais 
 
 L'utilisation du module Tkinter nous permet de sélectionner le fichier CSV de notre choix. Lors de l'importation des élèves dans la BDD, nous devons également spécifier l'encodage en UTF-8 pour éviter la présence de caractères spéciaux dans les noms.
 
+- ### Fichier CSV
 ![image](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/82d55768-fcd8-48af-9c92-39b79900e3cf)
 
 ## Caméra
