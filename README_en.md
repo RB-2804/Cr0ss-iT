@@ -42,15 +42,15 @@ After installing Python3 (version 3.7 or higher), run the following command:
 
 ![image](https://github.com/RB-2804/Cross-iT/assets/130835974/6962260a-cf2f-48dc-9272-37c0a6294404)
 
-Also, install the csv and cv2 modules for proper functionality:
+Also, install the qrocde and cv2 modules for proper functionality:
 
-- pip install csv opencv-python-headless
+- pip install csv opencv-python-headless/qrcode
 
 ### Ubuntu
 
 After installing the SOL2 package ( IIbsd12-dev for Ubuntu), Python3 (version 3.7 or higher), run the following command:
 
-- sudo pip3 install pygame opencv-python-headless
+- sudo pip3 install pygame opencv-python-headless/qrcode
 
 ## Usage
 
