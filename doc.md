@@ -1,5 +1,7 @@
 # Description technique du projet
 
+Read this document in [english](doc_en.md)
+
 ## Affichage
 
 L'affichage de l'application est réalisé à partir de Pygame. La bibliothèque Pygame propose des objets Rect qui permettent de dessiner des rectangles. En créant des fonctions, nous pouvons créer des rectangles avec un texte prédéfini par l'appel de la fonction. De plus, nous avons la possibilité d'entrer du texte dans une zone définie par un rectangle grâce au module Pygame.
