@@ -14,11 +14,13 @@ Notre base de données utilise des clés primaires et des clés étrangères. L'
 
 Grâce à la base de données, nous pouvons insérer les noms des élèves mais aussi les récupérer grâce aux fonctions nous permettant de réaliser des requêtes SQL en Python. C'est ainsi que nous pouvons afficher la liste des élèves participant à une course ou encore le classement lorsqu'une course est terminée.
 
-L'utilisation du module Tkinter nous permet de sélectionner le fichier CSV de notre choix. Lors de l'importation des élèves dans la BDD, nous devons également spécifier l'encodage en UTF-8 pour éviter la présence de caractères spéciaux dans les noms.
-
   - ### Schéma conceptuel (non abouti)
   
   ![image](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/8b9f2090-18c7-446a-aef5-8e6a9d193e28)
+
+L'utilisation du module Tkinter nous permet de sélectionner le fichier CSV de notre choix. Lors de l'importation des élèves dans la BDD, nous devons également spécifier l'encodage en UTF-8 pour éviter la présence de caractères spéciaux dans les noms.
+
+![image](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/82d55768-fcd8-48af-9c92-39b79900e3cf)
 
 ## Caméra
 
