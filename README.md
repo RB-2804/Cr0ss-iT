@@ -45,7 +45,7 @@ Apres avoir installé Python3 (version 3.7 ou plus), lancez la commande suivante
 
 Ainsi que les modules csv et cv2 pour un bon fonctionnement :
 
-- pip install csv opencv-python-headless
+- pip install opencv-python-headless
 
 ### Ubuntu
 
