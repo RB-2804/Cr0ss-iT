@@ -84,7 +84,7 @@ When you launch the application, a window will open with multiple tabs:
 
 - Race
 
-  ![image_2024-03-24_224607408](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/f44c5f10-0ecb-47e2-8404-d8bc6355e6e6)
+  ![image_2024-03-28_205247761](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/4f0ad291-29cf-48a1-91b9-a31ae9a8c2ed)
   
     - This tab provides a form to create a new race.
     - You can select the class, gender, and distance of the race, which will be saved in the database.
