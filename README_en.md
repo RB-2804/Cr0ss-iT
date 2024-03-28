@@ -88,6 +88,10 @@ When you launch the application, a window will open with multiple tabs:
   
     - This tab provides a form to create a new race.
     - You can select the class, gender, and distance of the race, which will be saved in the database.
+    - The "Reset ALL" button allows resetting all tables in the database.
+    - The "Reset course" button allows resetting the course table.
+    - The "Reset participate" button allows resetting the participate table.
+    - The "Reset students" button allows resetting the students' table.
     
 - Ranking
 
