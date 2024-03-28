@@ -90,7 +90,7 @@ Quand vous lancez l'application, une fenêtre s'ouvrira avec plusieurs onglets :
 
   - Une fois la course terminée, cet onglet permet de sélectionner le classement de la course et affichant le temps des 3 premiers.
 
-  ![image](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/dabadaea-2aca-4d6b-847a-bd1e37721940)
+  ![Screenshot 2024-03-28 204253 (1)](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/96cc61f4-bc8a-408d-bf94-4ab7e21a4ee4)
 
 
 ## License de la photo 
