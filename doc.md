@@ -16,6 +16,10 @@ Grâce à la base de données, nous pouvons insérer les noms des élèves mais 
 
 L'utilisation du module Tkinter nous permet de sélectionner le fichier CSV de notre choix. Lors de l'importation des élèves dans la BDD, nous devons également spécifier l'encodage en UTF-8 pour éviter la présence de caractères spéciaux dans les noms.
 
+  - ### Schéma conceptuel (non abouti)
+  
+  ![image](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/8b9f2090-18c7-446a-aef5-8e6a9d193e28)
+
 ## Caméra
 
 Le module OpenCV-Python est une bibliothèque open-source largement utilisée pour le traitement d'images. Il fournit des fonctionnalités pour la manipulation d'images en temps réel, la détection d'objets, le suivi de mouvement, la reconnaissance faciale, le calibrage de la caméra, et bien plus encore.
@@ -23,10 +27,6 @@ Le module OpenCV-Python est une bibliothèque open-source largement utilisée po
 Dans notre cas, nous l'avons utilisé dans le but de détecter les QR Codes des élèves.
 
 Nous pouvons choisir la caméra que vous voulez utiliser et nous avons utilisé l'application Iriun, qui permet, si l'ordinateur qui fait tourner l'application et le téléphone portable sont connectés sur le même réseau Wi-Fi, d'accéder à la caméra du téléphone portable pour obtenir un semblant de "webcam" sans fil. Vous pouvez également utiliser directement une webcam reliée à l'ordinateur.
-
-  - ### Schéma conceptuel (non abouti)
-  
-  ![image](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/8b9f2090-18c7-446a-aef5-8e6a9d193e28)
 
 ## App Design
 
