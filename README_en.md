@@ -92,6 +92,9 @@ When you launch the application, a window will open with multiple tabs:
 - Ranking
 
   - Once the race is finished, this tab allows you to select the ranking of the race and display the times of the top 3.
+ 
+  ![Screenshot 2024-03-28 204253 (1)](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/92aea944-4513-4083-a33e-5a0ecc601ce1)
+  
 
 ## Photo License 
 
