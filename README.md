@@ -81,8 +81,8 @@ Quand vous lancez l'application, une fenêtre s'ouvrira avec plusieurs onglets :
 
 - Course
 
-  ![image_2024-03-24_224607408](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/f44c5f10-0ecb-47e2-8404-d8bc6355e6e6)
-  
+  ![image_2024-03-28_205247761](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/26375e7f-5ce4-415b-82a8-728f55c0e138)
+
     - Cet onglet propose un formulaire pour créer une nouvelle course.
     - Vous pouvez sélectionner la classe, le genre et la distance de la course, qui seront enregistrés dans la base de données.
     - Le bouton "Reinitialiser TOUT" permet de réinitialiser toutes les tables de la base de données.
