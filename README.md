@@ -96,6 +96,8 @@ Quand vous lancez l'application, une fenêtre s'ouvrira avec plusieurs onglets :
     - Le bouton "Reinitialiser course" permet de réinitialiser la table course.
     - Le bouton "Reinitialiser participe" permet de réinitialiser la table participe.
     - Le bouton "Reinitialiser élèves" permet de réinitialiser la table élèves.
+ 
+  ℹ️Survolez pour vous informer sur le bon format à saisir !
     
 - Classement
 
