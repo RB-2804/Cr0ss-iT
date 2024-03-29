@@ -18,6 +18,8 @@ Cr0ss_iT is an application developed with Pygame, designed to simplify the organ
 
 ## Demo 
 
+(démo.mp4)
+
 ### Example of our Database 
 
 ![image](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/5d2b2a8c-09b9-4b8f-bc8c-609b529b6ee4)
