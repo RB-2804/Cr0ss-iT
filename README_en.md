@@ -82,7 +82,7 @@ When you launch the application, a window will open with multiple tabs:
     - You can also enter the camera number to use in a text box.
     - The "Start" button will start the camera and start an internal timer in the code.
 
-  ⚠️You must enter the number of the camera you wanted to use
+  ⚠️You must enter the number of the camera you want to use
 
 - Race
 
