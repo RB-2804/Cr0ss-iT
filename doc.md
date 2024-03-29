@@ -33,7 +33,7 @@ Dans notre cas, nous l'avons utilisé dans le but de détecter les QR Codes des 
 
 Nous pouvons choisir la caméra que vous voulez utiliser et nous avons utilisé l'application Iriun, qui permet, si l'ordinateur qui fait tourner l'application et le téléphone portable sont connectés sur le même réseau Wi-Fi, d'accéder à la caméra du téléphone portable pour obtenir un semblant de "webcam" sans fil. Vous pouvez également utiliser directement une webcam reliée à l'ordinateur.
 
-### Caméra d'arrêt 
+### QR code d'arrêt 
 ![image](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/8eb8b3ad-98d5-406e-9793-b246ca881ac3)
 
 
