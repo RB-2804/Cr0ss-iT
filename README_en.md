@@ -71,9 +71,7 @@ When you launch the application, a window will open with multiple tabs:
   - It also offers a "Create QR Code" button to generate unique QR codes associated with each student.
   - The "Import a file" button allows you to import a CSV file to automatically register students in the database.
 
-  - ### Conceptual Schema (incomplete)
-  
-  ![image](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/8b9f2090-18c7-446a-aef5-8e6a9d193e28)
+  ⚠️The cursor must be on the text box otherwise there will be no input
 
 - Departure
 
@@ -83,6 +81,8 @@ When you launch the application, a window will open with multiple tabs:
     - It displays the list of students participating in the selected race.
     - You can also enter the camera number to use in a text box.
     - The "Start" button will start the camera and start an internal timer in the code.
+
+  ⚠️You must enter the number of the camera you wanted to use
 
 - Race
 
@@ -94,6 +94,8 @@ When you launch the application, a window will open with multiple tabs:
     - The "Reset course" button allows resetting the course table.
     - The "Reset participate" button allows resetting the participate table.
     - The "Reset students" button allows resetting the students' table.
+ 
+  ℹ️Hover over to find out the correct format to enter!
     
 - Ranking
 
