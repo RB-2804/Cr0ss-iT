@@ -33,7 +33,7 @@ In our case, we used it to detect students' QR Codes.
 
 You can choose the camera you want to use, and we used the Iriun application, which allows, if the computer running the application and the mobile phone are connected to the same Wi-Fi network, to access the mobile phone's camera to obtain a wireless "webcam" semblance. You can also directly use a webcam connected to the computer.
 
-### Stop QR code
+### QR code Stop
 ![image](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/6d0d92a4-0995-45c4-bfba-738180cd7434)
 
 
