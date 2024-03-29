@@ -84,7 +84,7 @@ Quand vous lancez l'application, une fenêtre s'ouvrira avec plusieurs onglets :
     - Vous pouvez également saisir dans une zone de texte le numéro de la caméra à utiliser.
     - Le bouton "Démarrer" lancera la caméra et démarrera un chronomètre interne au code.
  
-  ⚠️Il faut saisir le numéro de la caméra que vous vouliez utilisé
+  ⚠️Il faut saisir le numéro de la caméra que vous voulez utilisé
 
 - Course
 
