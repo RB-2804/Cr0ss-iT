@@ -1,6 +1,6 @@
 # Technical Description of the Project
 
-Read this document in [French](doc.md)
+Lisez ce document en [français](doc.md)
 
 ## Display
 
