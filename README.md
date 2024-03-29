@@ -71,9 +71,8 @@ Quand vous lancez l'application, une fenêtre s'ouvrira avec plusieurs onglets :
   - Cet onglet permet d'enregistrer manuellement un élève à l'aide d'un formulaire.
   - Il propose également un bouton "Créer QR Code" pour générer des QR codes uniques associés à chaque élève.
   - Le bouton "Importer un fichier" permet d'importer un fichier CSV pour enregistrer automatiquement les élèves dans la base de données.
-
-![image](https://github.com/RB-2804/Cr0ss-iT/assets/130835974/e0a8bd16-70fc-4f36-a6ef-101e87ed5bf0)
-Le curseur doit être sur la  zone de texte sinon il n'y aura pas de saisie
+    
+⚠️Le curseur doit être sur la  zone de texte sinon il n'y aura pas de saisie
 
 
 - Départ
