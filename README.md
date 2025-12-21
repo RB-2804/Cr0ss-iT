@@ -46,7 +46,7 @@ Apres avoir installé Python3 (version 3.7 ou plus), lancez la commande suivante
 
 ![image](https://github.com/RB-2804/Cross-iT/assets/130835974/6962260a-cf2f-48dc-9272-37c0a6294404)
 
-Ainsi que les modules cv2 et qrocde pour un bon fonctionnement :
+Ainsi que les modules cv2 et qrocde pour un bon fonctionnement de l'application :
 
 - pip install opencv-python-headless qrcode
 
